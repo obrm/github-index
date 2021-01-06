@@ -48,6 +48,7 @@ const Search = () => {
             height: '27px',
             lineHeight: '14px',
           }}
+          onClick={clearUsers}
         >
           ניקוי
         </button>
